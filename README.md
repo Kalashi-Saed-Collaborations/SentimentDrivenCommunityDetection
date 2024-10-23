@@ -72,3 +72,44 @@ This repository includes multiple datasets used for the study, providing a compr
         "is_comment_answer": "NO"
     }
 }
+
+
+## 2. Emoji Mapping Dataset
+A dictionary of **392 common emojis** mapped to their Persian equivalents.
+
+#### Example:
+- "😍" → "چشم های عاشق" ("Loving Eyes").
+
+This dataset allows for a more accurate sentiment analysis by incorporating emoji usage in user comments.
+
+## 3. Sentiment Classification Results
+We provide **three CSV files** containing the sentiment classification results, with each file biased towards a specific perfume attribute: **Scent**, **Longevity**, or **Sillage**.
+
+### Methodology:
+First, we used the **ParsBert** model to classify comments based on sentiment. The sentiment classification was conducted on the user comments, where only positive comments were considered for constructing the perfume-perfume network.
+
+To further enhance the accuracy of sentiment classification, we integrated **user votes** on three essential perfume categories—**Scent**, **Longevity**, and **Sillage**—into the sentiment analysis process. This integration provided a more refined sentiment classification for each aspect of the perfume experience.
+
+### Sentiment Classification Integration:
+To enhance the accuracy of sentiment labels, user votes regarding three essential perfume attributes—**Scent**, **Longevity**, and **Sillage**—were integrated into the classification process. Each user's rating (R) for these categories was used to bias the sentiment analysis, as detailed below:
+
+- **R ≥ 7:** Positive sentiment.
+- **R ≤ 3:** Negative sentiment.
+- **4 < R < 7:** Ambiguous, no sentiment change.
+
+This systematic integration allows for a more nuanced understanding of consumer preferences across different dimensions of the perfume experience.
+
+### CSV Files:
+1. **Scent-biased sentiment classification**
+2. **Longevity-biased sentiment classification**
+3. **Sillage-biased sentiment classification**
+
+## Usage
+The datasets provided in this repository are available for use in further research and analysis. They can be leveraged to study user preferences, conduct community detection, or enhance recommendation systems in the fragrance industry.
+
+## Terms of Use
+The datasets are shared for academic and non-commercial purposes only. Please ensure proper citation if you use the data in your work.
+
+## Citation
+If you use these datasets in your research, please cite our paper as follows:
+
