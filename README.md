@@ -110,6 +110,19 @@ The datasets provided in this repository are available for use in further resear
 The datasets are shared for academic and non-commercial purposes only. Please ensure proper citation if you use the data in your work.
 
 ## Citation
+If you use the datasets or findings from our paper, please cite it as follows:
+
+```bibtex
+@article{kalashi2024sentiment,
+    title={Sentiment-Driven Community Detection in a Network of Perfume Preferences},
+    author={Kamand Kalashi and Sajjad Saed and Babak Teimourpour},
+    eprint={arXiv:YYYY.MM.DD},
+    archivePrefix={arXiv},
+    primaryClass={cs.LG},  % Adjust this to your specific classification
+    year={2024},
+    note={Preprint available at: https://arxiv.org/abs/YYYY.MM.DD}  % Update with actual date and URL
+}
+```
 
 ## Authors
 - Kamand Kalashi - [GoogleScholar](https://scholar.google.com/citations?user=Rjiq7qUAAAAJ&hl=en), [GitHub](https://github.com/Kamii114), [LinkedIn](https://www.linkedin.com/in/kamand-kalashi-0696b1199/), [ResearchGate](https://www.researchgate.net/profile/Kamand-Kalashi)
