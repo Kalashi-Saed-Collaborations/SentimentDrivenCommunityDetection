@@ -77,7 +77,6 @@ A dictionary of **392 common emojis** mapped to their Persian equivalents.
 
 ```
 - "😍" → "چشم های عاشق" ("Loving Eyes").
-
 ```
 
 This dataset allows for a more accurate sentiment analysis by incorporating emoji usage in user comments.
