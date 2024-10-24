@@ -85,7 +85,7 @@ This dataset allows for a more accurate sentiment analysis by incorporating emoj
 We provide **three CSV files** containing the sentiment classification results, with each file biased towards a specific perfume attribute: **Scent**, **Longevity**, or **Sillage**.
 
 ### Methodology:
-First, we used the [**ParsBert** model] (https://github.com/hooshvare/parsbert) to classify comments based on sentiment. The sentiment classification was conducted on the user comments, where only positive comments were considered for constructing the perfume-perfume network.
+First, we used the [**ParsBert** model](https://github.com/hooshvare/parsbert) to classify comments based on sentiment. The sentiment classification was conducted on the user comments, where only positive comments were considered for constructing the perfume-perfume network.
 
 To further enhance the accuracy of sentiment classification, we integrated **user votes** on three essential perfume categories—**Scent**, **Longevity**, and **Sillage**—into the sentiment analysis process. This integration provided a more refined sentiment classification for each aspect of the perfume experience.
 
