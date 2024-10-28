@@ -124,11 +124,13 @@ If you use the datasets or findings from our paper, please cite it as follows:
 @article{kalashi2024sentiment,
     title={Sentiment-Driven Community Detection in a Network of Perfume Preferences},
     author={Kamand Kalashi and Sajjad Saed and Babak Teimourpour},
-    eprint={arXiv:YYYY.MM.DD},
-    archivePrefix={arXiv},
-    primaryClass={cs.LG},  % Adjust this to your specific classification
+    journal={arXiv preprint arXiv:2410.19177},
     year={2024},
-    note={Preprint available at: https://arxiv.org/abs/YYYY.MM.DD}  % Update with actual date and URL
+    note={Available at: https://doi.org/10.48550/arXiv.2410.19177},
+    primaryClass={cs.SI},
+    secondaryClass={cs.IR},
+    archivePrefix={arXiv},
+    eprint={2410.19177},
 }
 ```
 
