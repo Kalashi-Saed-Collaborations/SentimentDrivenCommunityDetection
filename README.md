@@ -147,16 +147,21 @@ The datasets are shared for academic and non-commercial purposes only. Please en
 If you use the datasets or findings from our paper, please cite [our paper](https://arxiv.org/abs/2410.19177) in your work:
 
 ```bibtex
-@article{kalashi2024sentiment,
-    title={Sentiment-Driven Community Detection in a Network of Perfume Preferences},
-    author={Kamand Kalashi and Sajjad Saed and Babak Teimourpour},
-    journal={arXiv preprint arXiv:2410.19177},
-    year={2024},
-    note={Available at: https://doi.org/10.48550/arXiv.2410.19177},
-    primaryClass={cs.SI},
-    secondaryClass={cs.IR},
-    archivePrefix={arXiv},
-    eprint={2410.19177},
+@ARTICLE{2024arXiv241019177K,
+       author = {{Kalashi}, Kamand and {Saed}, Sajjad and {Teimourpour}, Babak},
+        title = "{Sentiment-Driven Community Detection in a Network of Perfume Preferences}",
+      journal = {arXiv e-prints},
+     keywords = {Computer Science - Social and Information Networks, Computer Science - Information Retrieval, G.2.2, I.2.6, J.4},
+         year = 2024,
+        month = oct,
+          eid = {arXiv:2410.19177},
+        pages = {arXiv:2410.19177},
+          doi = {10.48550/arXiv.2410.19177},
+archivePrefix = {arXiv},
+       eprint = {2410.19177},
+ primaryClass = {cs.SI},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2024arXiv241019177K},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 ```
 
