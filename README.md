@@ -202,7 +202,7 @@ archivePrefix = {arXiv},
   </a>
 </p>
 
-**Babak Teimourpour**
+**Dr.Babak Teimourpour**
 <p align="left">
   <a href="https://www.linkedin.com/in/babak-teimourpour-7877482b/" target="_blank">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
@@ -215,6 +215,7 @@ archivePrefix = {arXiv},
   </a>
 </p>
 
+##
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=SentimentDrivenCommunityDetection&"  />
 </div>
