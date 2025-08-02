@@ -217,5 +217,5 @@ archivePrefix = {arXiv},
 
 ##
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SentimentDrivenCommunityDetection&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kalashi-Saed-Collaborations.SentimentDrivenCommunityDetection"  />
 </div>
