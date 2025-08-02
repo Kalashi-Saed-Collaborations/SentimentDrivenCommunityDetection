@@ -170,7 +170,51 @@ archivePrefix = {arXiv},
 ```
 
 ## Authors
-- Kamand Kalashi - [GoogleScholar](https://scholar.google.com/citations?user=Rjiq7qUAAAAJ&hl=en), [GitHub](https://github.com/Kamii114), [LinkedIn](https://www.linkedin.com/in/kamand-kalashi-0696b1199/), [ResearchGate](https://www.researchgate.net/profile/Kamand-Kalashi)
-- Sajjad Saed -    [GoogleScholar](https://scholar.google.com/citations?user=4xT5JlQAAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/sajjad-saed-845908125/), [ResearchGate](https://www.researchgate.net/profile/Sajjad-Saed)
-- Babak Teimourpour - [GoogleScholar](https://scholar.google.com/citations?user=Hb0DMrUAAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/babak-teimourpour-7877482b/), [ResearchGate](https://www.researchgate.net/profile/Babak-Teimourpour)
+**Kamand Kalashi**  
+ <p align="left">
+  <a href="https://www.linkedin.com/in/kamand-kalashi-0696b1199/" target="_blank">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+  </a>  
+  <a href='https://scholar.google.com/citations?user=Rjiq7qUAAAAJ&hl=en' target="_blank">
+    <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&color=0181FF'>
+  </a>
+  <a href="https://www.researchgate.net/profile/Kamand-Kalashi" target="_blank">
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white">
+  </a>
+    <a href="mailto:kalashi.kamand@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white">
+  </a>
+</p>
+  
+**Sajjad Saed**  
+<p align="left">
+  <a href="https://www.linkedin.com/in/sajjad-saed-845908125/" target="_blank">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+  </a>  
+  <a href='https://scholar.google.com/citations?user=4xT5JlQAAAAJ&hl=en' target="_blank">
+    <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&color=0181FF'>
+  </a>
+  <a href="https://www.researchgate.net/profile/Sajjad-Saed" target="_blank">
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white">
+  </a>
+    <a href="mailto:ssaed.89@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+**Babak Teimourpour**
+<p align="left">
+  <a href="https://www.linkedin.com/in/babak-teimourpour-7877482b/" target="_blank">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+  </a>  
+  <a href='https://scholar.google.com/citations?user=Hb0DMrUAAAAJ&hl=en' target="_blank">
+    <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&color=0181FF'>
+  </a>
+  <a href="https://www.researchgate.net/profile/Babak-Teimourpour" target="_blank">
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white">
+  </a>
+    <a href="mailto:b.teimourpour@modares.ac.ir" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white">
+  </a>
+</p>
 
