@@ -1,5 +1,9 @@
 # Sentiment Driven Community Detection in a Network of Perfume Preferences
 
+<p align="center">
+  <img src="PerfumeCoPreferenceNetwork.png" alt="Perfume CoPreference Network" width="600"/>
+</p>
+
 ## Overview
 This repository contains datasets used in our paper, [**"Sentiment-Driven Community Detection in a Network of Perfume Preferences."**](https://arxiv.org/abs/2410.19177) The research focuses on applying community detection techniques to analyze a network of perfume preferences based on positive user reviews from a Persian retail platform, Atrafshan. The study leverages sentiment analysis to group perfumes into clusters, revealing shared consumer preferences in the fragrance domain.
 
