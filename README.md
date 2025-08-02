@@ -213,8 +213,5 @@ archivePrefix = {arXiv},
   <a href="https://www.researchgate.net/profile/Babak-Teimourpour" target="_blank">
     <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white">
   </a>
-    <a href="mailto:b.teimourpour@modares.ac.ir" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white">
-  </a>
 </p>
 
