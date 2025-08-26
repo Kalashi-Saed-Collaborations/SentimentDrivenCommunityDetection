@@ -1,32 +1,32 @@
-# Sentiment Driven Community Detection in a Network of Perfume Preferences
+# 🌸 Sentiment Driven Community Detection in a Network of Perfume Preferences
 
 <p align="center">
   <img src="PerfumeCoPreferenceNetwork.png" alt="Perfume CoPreference Network" width="600"/>
 </p>
 
-## Overview
+## 📖 Overview
 This repository contains datasets used in our paper, [**"Sentiment-Driven Community Detection in a Network of Perfume Preferences."**](https://arxiv.org/abs/2410.19177) The research focuses on applying community detection techniques to analyze a network of perfume preferences based on positive user reviews from a Persian retail platform, Atrafshan. The study leverages sentiment analysis to group perfumes into clusters, revealing shared consumer preferences in the fragrance domain.
 
-### Key Contributions
+### ✨ Key Contributions
 
-- **Novel Community Detection**: First application of community detection methods to perfume networks, enhancing insights into consumer preferences in the fragrance industry.
+- **🔍 Novel Community Detection**: First application of community detection methods to perfume networks, enhancing insights into consumer preferences in the fragrance industry.
 
-- **Rich Dataset**: Extraction and availability of a comprehensive dataset from a Persian perfume retail platform, including user reviews and ratings, hosted on GitHub for further analysis.
+- **📊 Rich Dataset**: Extraction and availability of a comprehensive dataset from a Persian perfume retail platform, including user reviews and ratings, hosted on GitHub for further analysis.
 
-- **Enhanced Sentiment Analysis**: Innovative incorporation of emojis and user ratings, refining sentiment classification and capturing emotional context in reviews.
+- **😊 Enhanced Sentiment Analysis**: Innovative incorporation of emojis and user ratings, refining sentiment classification and capturing emotional context in reviews.
 
-- **Refined Edge Weights**: Integration of user ratings to adjust edge weights in the Perfume Co-Preference Networks, ensuring a nuanced representation of consumer preferences.
+- **⚖️ Refined Edge Weights**: Integration of user ratings to adjust edge weights in the Perfume Co-Preference Networks, ensuring a nuanced representation of consumer preferences.
 
-- **Increased Modularity**: Improvements in modularity scores through sentiment-based network construction, leading to clearer groupings of similar perfumes based on shared user preferences.
+- **📈 Increased Modularity**: Improvements in modularity scores through sentiment-based network construction, leading to clearer groupings of similar perfumes based on shared user preferences.
 
 
-### Keywords:
+### 🏷️ Keywords:
 Community Detection, Data Mining, Perfume Networks, Sentiment Analysis, User Preferences, Co-Preference Network, Persian Retail Platform.
 
-## Datasets
+## 📂 Datasets
 This repository includes multiple datasets used for the study, providing a comprehensive view of perfume reviews, sentiment analysis, and emoji mappings.
 
-### 1. **User Reviews and Perfume Attributes Dataset**
+## 1. **User Reviews and Perfume Attributes Dataset**
 - **Comments:** 36,434 comments from 7,387 unique users.
 - **Ratings:** User ratings on perfume attributes such as Scent, Longevity, Sillage, and Bottle Design.
 - **Metadata:** Includes usernames, user IDs, and comment types (e.g., standalone or replies).
@@ -115,7 +115,7 @@ This systematic integration allows for a more nuanced understanding of consumer 
 2. **Longevity-biased sentiment classification**
 3. **Sillage-biased sentiment classification**
 
-## Usage
+## 🚀 Usage
 The datasets provided in this repository are available for use in further research and analysis. They can be leveraged to study user preferences, conduct community detection, or enhance recommendation systems in the fragrance industry.
 
 ### Potential Use Cases of the Dataset
@@ -144,10 +144,10 @@ The dataset serves as an excellent resource for researchers and data scientists 
 Researchers can investigate how seasonal trends, marketing campaigns, and cultural events influence fragrance preferences. These insights can support demand forecasting and strategy alignment with external factors impacting consumer choices.
 
 
-## Terms of Use
+## 📜 Terms of Use
 The datasets are shared for academic and non-commercial purposes only. Please ensure proper citation if you use the data in your work.
 
-## Citation
+## 📖 Citation
 If you use the datasets or findings from our paper, please cite [our paper](https://arxiv.org/abs/2410.19177) in your work:
 
 ```bibtex
@@ -174,7 +174,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 If you use this repository, please mention the original GitHub repository by linking to [SentimentDrivenCommunityDetection](https://github.com/Kalashi-Saed-Collaborations/SentimentDrivenCommunityDetection/). This helps support the project and acknowledges the contributors.
 
-## Authors
+## 👩‍💻 Authors
 **Kamand Kalashi**  
  <p align="left">
   <a href="https://www.linkedin.com/in/kamand-kalashi-0696b1199/" target="_blank">
