@@ -168,6 +168,11 @@ archivePrefix = {arXiv},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 ```
+## 📝 License
+
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
+
+If you use this repository, please mention the original GitHub repository by linking to [SentimentDrivenCommunityDetection](https://github.com/Kalashi-Saed-Collaborations/SentimentDrivenCommunityDetection/). This helps support the project and acknowledges the contributors.
 
 ## Authors
 **Kamand Kalashi**  
