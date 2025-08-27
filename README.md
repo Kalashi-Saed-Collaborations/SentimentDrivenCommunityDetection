@@ -1,4 +1,4 @@
-# 🌸 Sentiment Driven Community Detection in a Network of Perfume Preferences
+# Sentiment Driven Community Detection in a Network of Perfume Preferences
 
 <p align="center">
   <img src="PerfumeCoPreferenceNetwork.png" alt="Perfume CoPreference Network" width="600"/>
