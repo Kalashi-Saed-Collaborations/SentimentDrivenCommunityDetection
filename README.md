@@ -221,6 +221,3 @@ If you use this repository, please mention the original GitHub repository by lin
 </p>
 
 ##
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kalashi-Saed-Collaborations.SentimentDrivenCommunityDetection"  />
-</div>
