@@ -148,7 +148,7 @@ Researchers can investigate how seasonal trends, marketing campaigns, and cultur
 The datasets are shared for academic and non-commercial purposes only. Please ensure proper citation if you use the data in your work.
 
 ## 📖 Citation
-If you use the datasets or findings from our paper, please cite [our paper](https://arxiv.org/abs/2410.19177) in your work:
+If you use the datasets or findings from our paper, please cite [our paper](https://link.springer.com/article/10.1007/s41109-025-00757-0) in your work:
 
 ```bibtex
 @article{Kalashi2026,
