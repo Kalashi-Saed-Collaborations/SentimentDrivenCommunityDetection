@@ -5,7 +5,7 @@
 </p>
 
 ## 📖 Overview
-This repository contains datasets used in our paper, [**"Sentiment-Driven Community Detection in a Network of Perfume Preferences."**](https://arxiv.org/abs/2410.19177) The research focuses on applying community detection techniques to analyze a network of perfume preferences based on positive user reviews from a Persian retail platform, Atrafshan. The study leverages sentiment analysis to group perfumes into clusters, revealing shared consumer preferences in the fragrance domain.
+This repository contains datasets used in our paper, [**"Sentiment-Driven Community Detection in a Network of Perfume Preferences."**](https://link.springer.com/article/10.1007/s41109-025-00757-0) The research focuses on applying community detection techniques to analyze a network of perfume preferences based on positive user reviews from a Persian retail platform, Atrafshan. The study leverages sentiment analysis to group perfumes into clusters, revealing shared consumer preferences in the fragrance domain.
 
 ### ✨ Key Contributions
 
@@ -151,21 +151,16 @@ The datasets are shared for academic and non-commercial purposes only. Please en
 If you use the datasets or findings from our paper, please cite [our paper](https://arxiv.org/abs/2410.19177) in your work:
 
 ```bibtex
-@ARTICLE{2024arXiv241019177K,
-       author = {{Kalashi}, Kamand and {Saed}, Sajjad and {Teimourpour}, Babak},
-        title = "{Sentiment-Driven Community Detection in a Network of Perfume Preferences}",
-      journal = {arXiv e-prints},
-     keywords = {Computer Science - Social and Information Networks, Computer Science - Information Retrieval, G.2.2, I.2.6, J.4},
-         year = 2024,
-        month = oct,
-          eid = {arXiv:2410.19177},
-        pages = {arXiv:2410.19177},
-          doi = {10.48550/arXiv.2410.19177},
-archivePrefix = {arXiv},
-       eprint = {2410.19177},
- primaryClass = {cs.SI},
-       adsurl = {https://ui.adsabs.harvard.edu/abs/2024arXiv241019177K},
-      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+@article{Kalashi2026,
+  author  = {Kalashi, Kamand and Saed, Sajjad and Teimourpour, Babak},
+  title   = {Sentiment-driven community detection in a network of perfume preferences},
+  journal = {Applied Network Science},
+  year    = {2026},
+  volume  = {11},
+  number  = {1},
+  pages   = {13},
+  doi     = {10.1007/s41109-025-00757-0},
+  url     = {https://doi.org/10.1007/s41109-025-00757-0}
 }
 ```
 ## 📝 License
